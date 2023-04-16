@@ -5,3 +5,5 @@
 - dropdown menu: [@radix-ui/react-dropdown-menu](https://www.radix-ui.com/docs/primitives/components/dropdown-menu)
 
 I might not or I might continue to develop.
+
+I might re-start if contentlayer supports vite.
